@@ -1,0 +1,26 @@
+{
+    "pluginName": "sequence",
+    "version": "0.0.1",
+    "description": "sequence 序列图、时序图",
+    "author": "brzhang",
+    "homepage": "https://github.com/bravekingzhang/utools-sequence",
+
+    "preload": "preload.js",
+    "logo": "logo.png",
+	"features": [
+		{
+		  "code": "sequence",
+		  "explain": "快速创建序列图的工具，让你的代码思路更加直观",
+			"cmds":[
+				"sequence",
+				"序列图",
+				"时序图",
+				"UML",
+				{
+					"type": "over",
+					"label": "sequence 序列图、时序图"
+				}
+			]
+		}
+	]
+}
