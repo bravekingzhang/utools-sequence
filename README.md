@@ -3,7 +3,7 @@
 ## uTools插件 - 时序图-序列图-sequence
 
 - `SequenceDiagram`，一款比较轻量的时序图，表达比比较简洁
-- 基于 [code2flow](https://github.com/davidje13/SequenceDiagram) 制作的 [uTools](https://u.tools/) 插件
+- 基于 [SequenceDiagram](https://github.com/davidje13/SequenceDiagram) 制作的 [uTools](https://u.tools/) 插件
 - 使用这个玩意来表达自己代码思路不要太爽！！！
 
 
