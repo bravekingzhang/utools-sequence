@@ -4,7 +4,7 @@
     "description": "sequence 序列图、时序图",
     "author": "brzhang",
     "homepage": "https://github.com/bravekingzhang/utools-sequence",
-
+	"main": "index.html",
     "preload": "preload.js",
     "logo": "logo.png",
 	"features": [
